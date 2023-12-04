@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">EyeCare App</string>
+    <string name="favourite_icon_label">favourite</string>
+    <string name="share_icon_label">share</string>
+    <string name="shopping_bag_icon_label">shopping bag</string>
+    <string name="title_name">Once Gallery Weekly</string>
+    <string name="eye_s_image_desc">eye\'s image</string>
+    <string name="eye_problem_title">eyeProblemTitle</string>
+    <string name="measurement">3.50 KWD</string>
+    <string name="subtitle">subtitle</string>
+    <string name="color">Color:</string>
+    <string name="free_payment">or 4 interest-free payment</string>
+    <string name="second_measurement">0.88 KWD</string>
+    <string name="learn_more">Learn More</string>
+    <string name="tabby">tabby</string>
+    <string name="share_btn">Share</string>
+    <string name="add_to_bag_btn">Add to bag</string>
+    <string name="information">Information</string>
+    <string name="product_information_title">PRODUCT INFORMATION</string>
+    <string name="increment_sign">+</string>
+    <string name="counter_value">1</string>
+    <string name="decrement_sign">-</string>
+    <string name="quantity">Quantity</string>
+    <string name="sku">SKU:</string>
+    <string name="subtitle22">subtitle22</string>
+</resources>

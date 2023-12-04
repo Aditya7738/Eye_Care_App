@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="dark_brown">#572400</color>
+    <color name="container_color">#06E189</color>
+
+    <color name="dark_silver">#5C5C5C</color>
+    <color name="silver">#6E6E6E</color>
+    <color name="light_silver">#8C8C8C</color>
+    <color name="light_silver2">#CDCDCD</color>
+
+
+    <color name="skin1">#D3B2A3</color>
+<!--    <color name="skin2">#C9AB9F</color>-->
+<!--    <color name="skin3">#BEA59A</color>-->
+<!--    <color name="skin4">#B49F96</color>-->
+<!--    <color name="skin5">#AA9992</color>-->
+<!--    <color name="skin6">#9F938D</color>-->
+<!--    <color name="skin7">#958C89</color>-->
+<!--    <color name="skin8">#8A8684</color>-->
+<!--    <color name="skin9">#BA988A</color>-->
+<!--    <color name="skin10">#EDCBBD</color>-->
+<!--    <color name="skin11">#D3B2A3</color>-->
+<!--    <color name="skin12">#C9AB9F</color>-->
+<!--    <color name="skin13">#BEA59A</color>-->
+<!--    <color name="skin14">#B49F96</color>-->
+<!--    <color name="skin15">#AA9992</color>-->
+<!--    <color name="skin16">#9F938D</color>-->
+<!--    <color name="skin17">#958C89</color>-->
+<!--    <color name="skin18">#8A8684</color>-->
+<!--    <color name="skin19">#BA988A</color>-->
+<!--    <color name="skin20">#EDCBBD</color>-->
+
+
+</resources>
